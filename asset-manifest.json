@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Unit-19-Homework/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Unit-19-Homework/static/js/main.8a3e4b56.chunk.js",
+    "main.js.map": "/Unit-19-Homework/static/js/main.8a3e4b56.chunk.js.map",
+    "runtime-main.js": "/Unit-19-Homework/static/js/runtime-main.2de26777.js",
+    "runtime-main.js.map": "/Unit-19-Homework/static/js/runtime-main.2de26777.js.map",
+    "static/js/2.68ca4b65.chunk.js": "/Unit-19-Homework/static/js/2.68ca4b65.chunk.js",
+    "static/js/2.68ca4b65.chunk.js.map": "/Unit-19-Homework/static/js/2.68ca4b65.chunk.js.map",
+    "index.html": "/Unit-19-Homework/index.html",
+    "precache-manifest.5298124ba46534358c23c045d56adf95.js": "/Unit-19-Homework/precache-manifest.5298124ba46534358c23c045d56adf95.js",
+    "service-worker.js": "/Unit-19-Homework/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Unit-19-Homework/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Unit-19-Homework/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2de26777.js",
+    "static/js/2.68ca4b65.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.8a3e4b56.chunk.js"
+  ]
+}
