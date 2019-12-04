@@ -3,8 +3,24 @@ import Navbar from "./components/Navbar";
 import Game from "./components/Game";
 import './App.css';
 
-function App() {
-  return <Navbar />;
+
+
+
+class App extends React.Component {
+  state = {
+    currentScore: 0,
+    topScore: 0
+  }
+
+  render() {
+    return (
+      <div>
+      <Navbar />
+      <Game img="img1" />
+      </div>
+    )
+  }
+
 }
 
 export default App;
