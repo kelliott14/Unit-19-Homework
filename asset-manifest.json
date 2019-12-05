@@ -1,22 +1,33 @@
 {
   "files": {
-    "main.css": "/Unit-19-Homework/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Unit-19-Homework/static/js/main.8a3e4b56.chunk.js",
-    "main.js.map": "/Unit-19-Homework/static/js/main.8a3e4b56.chunk.js.map",
+    "main.css": "/Unit-19-Homework/static/css/main.0da1ebba.chunk.css",
+    "main.js": "/Unit-19-Homework/static/js/main.816e9847.chunk.js",
+    "main.js.map": "/Unit-19-Homework/static/js/main.816e9847.chunk.js.map",
     "runtime-main.js": "/Unit-19-Homework/static/js/runtime-main.2de26777.js",
     "runtime-main.js.map": "/Unit-19-Homework/static/js/runtime-main.2de26777.js.map",
-    "static/js/2.68ca4b65.chunk.js": "/Unit-19-Homework/static/js/2.68ca4b65.chunk.js",
-    "static/js/2.68ca4b65.chunk.js.map": "/Unit-19-Homework/static/js/2.68ca4b65.chunk.js.map",
+    "static/js/2.83509120.chunk.js": "/Unit-19-Homework/static/js/2.83509120.chunk.js",
+    "static/js/2.83509120.chunk.js.map": "/Unit-19-Homework/static/js/2.83509120.chunk.js.map",
     "index.html": "/Unit-19-Homework/index.html",
-    "precache-manifest.5298124ba46534358c23c045d56adf95.js": "/Unit-19-Homework/precache-manifest.5298124ba46534358c23c045d56adf95.js",
+    "precache-manifest.66158c1c8d55c9831c3fb052bc1971d9.js": "/Unit-19-Homework/precache-manifest.66158c1c8d55c9831c3fb052bc1971d9.js",
     "service-worker.js": "/Unit-19-Homework/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/Unit-19-Homework/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/Unit-19-Homework/static/media/logo.25bf045c.svg"
+    "static/css/main.0da1ebba.chunk.css.map": "/Unit-19-Homework/static/css/main.0da1ebba.chunk.css.map",
+    "static/media/img1.JPG": "/Unit-19-Homework/static/media/img1.f5e77fad.JPG",
+    "static/media/img10.JPG": "/Unit-19-Homework/static/media/img10.3664b80f.JPG",
+    "static/media/img11.JPG": "/Unit-19-Homework/static/media/img11.a2c2d5b2.JPG",
+    "static/media/img12.JPG": "/Unit-19-Homework/static/media/img12.3fb87d54.JPG",
+    "static/media/img2.JPG": "/Unit-19-Homework/static/media/img2.6ae65852.JPG",
+    "static/media/img3.JPG": "/Unit-19-Homework/static/media/img3.09fde49a.JPG",
+    "static/media/img4.JPG": "/Unit-19-Homework/static/media/img4.92749216.JPG",
+    "static/media/img5.JPG": "/Unit-19-Homework/static/media/img5.e135530a.JPG",
+    "static/media/img6.JPG": "/Unit-19-Homework/static/media/img6.2a843827.JPG",
+    "static/media/img7.JPG": "/Unit-19-Homework/static/media/img7.02eb8ab0.JPG",
+    "static/media/img8.JPG": "/Unit-19-Homework/static/media/img8.14fc558a.JPG",
+    "static/media/img9.JPG": "/Unit-19-Homework/static/media/img9.40938ced.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.2de26777.js",
-    "static/js/2.68ca4b65.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.8a3e4b56.chunk.js"
+    "static/js/2.83509120.chunk.js",
+    "static/css/main.0da1ebba.chunk.css",
+    "static/js/main.816e9847.chunk.js"
   ]
 }
