@@ -3,9 +3,9 @@ import Wrapper from "./components/Wrapper";
 import Container from "./components/Container";
 import Navbar from "./components/Navbar";
 import Game from "./components/Game";
+import Footer from "./components/Footer";
 import './App.css';
 import GameCards from "./gamecard.json";
-
 
 
 class App extends React.Component {
@@ -16,16 +16,18 @@ class App extends React.Component {
     pickedCards: []
   }
 
+  //updates score
   scoreUpdate = (id) => {
     this.setState({
       currentScore: (this.state.currentScore + 10)
     });
-
+    //adds id of card into array of picked cards
     let tempArr = this.state.pickedCards
     tempArr.push(id)
     this.setState({pickedCards: tempArr});
   }
 
+  //runs with each click
   handleClick = id => {
     //check if already picked, add to score
     let check = this.state.pickedCards.includes(id) 
@@ -42,19 +44,15 @@ class App extends React.Component {
     this.setState({cards: temp})
   }
 
+  //moves score to top score if applicable, resets game
   endGame = () => {
     if(this.state.currentScore > this.state.topScore) {
       this.setState({topScore: this.state.currentScore}) 
-      console.log("called")
     }
     let tempArr = []
     this.setState({
       currentScore: 0,
       pickedCards: tempArr
-    }, () => {
-
-      console.log("---52")
-      console.log(this.state.pickedCards)
     })
 
   }
@@ -74,7 +72,7 @@ class App extends React.Component {
         })}
           
         </Container>
-
+        <Footer />
       </Wrapper>
     )
   }
