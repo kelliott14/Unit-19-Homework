@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Unit-19-Homework/static/css/main.0da1ebba.chunk.css",
+    "main.css": "/Unit-19-Homework/static/css/main.8f6a1654.chunk.css",
     "main.js": "/Unit-19-Homework/static/js/main.816e9847.chunk.js",
     "main.js.map": "/Unit-19-Homework/static/js/main.816e9847.chunk.js.map",
     "runtime-main.js": "/Unit-19-Homework/static/js/runtime-main.2de26777.js",
@@ -8,9 +8,9 @@
     "static/js/2.83509120.chunk.js": "/Unit-19-Homework/static/js/2.83509120.chunk.js",
     "static/js/2.83509120.chunk.js.map": "/Unit-19-Homework/static/js/2.83509120.chunk.js.map",
     "index.html": "/Unit-19-Homework/index.html",
-    "precache-manifest.66158c1c8d55c9831c3fb052bc1971d9.js": "/Unit-19-Homework/precache-manifest.66158c1c8d55c9831c3fb052bc1971d9.js",
+    "precache-manifest.c9c77c6a7942d9e80842dd3666e94b53.js": "/Unit-19-Homework/precache-manifest.c9c77c6a7942d9e80842dd3666e94b53.js",
     "service-worker.js": "/Unit-19-Homework/service-worker.js",
-    "static/css/main.0da1ebba.chunk.css.map": "/Unit-19-Homework/static/css/main.0da1ebba.chunk.css.map",
+    "static/css/main.8f6a1654.chunk.css.map": "/Unit-19-Homework/static/css/main.8f6a1654.chunk.css.map",
     "static/media/img1.JPG": "/Unit-19-Homework/static/media/img1.f5e77fad.JPG",
     "static/media/img10.JPG": "/Unit-19-Homework/static/media/img10.3664b80f.JPG",
     "static/media/img11.JPG": "/Unit-19-Homework/static/media/img11.a2c2d5b2.JPG",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.2de26777.js",
     "static/js/2.83509120.chunk.js",
-    "static/css/main.0da1ebba.chunk.css",
+    "static/css/main.8f6a1654.chunk.css",
     "static/js/main.816e9847.chunk.js"
   ]
 }
