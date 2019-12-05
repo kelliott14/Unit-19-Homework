@@ -3,6 +3,7 @@
     float: left;
     height: 14rem;
     border: 3px inset silver;
+    cursor: pointer;
 }
 
 img{
@@ -10,3 +11,12 @@ img{
     height: 100%
 }
 
+.card:active {
+    transform: translateY(1px);
+    filter: saturate(150%);
+  }
+
+.card:hover { 
+    transition: all .3s ease-in-out;
+    transform: scale(1.05);
+}
