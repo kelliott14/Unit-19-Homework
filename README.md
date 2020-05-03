@@ -1,12 +1,19 @@
-# Unit-19-Homework
-Boot Camp - Unit 19 - React.js - Homework
+# Showcase-React
+Showcasing React. Simple clicky game, keep selecting new cards as the deck shuffles. 
 
-# Demo
-https://kelliott14.github.io/Unit-19-Homework/
+## View Site:
+[View demo here](https://kelliott14.github.io/Showcase-React/)
 
-Click on the cards to add to your score. Selecting the same card twice will reset the game. The top score will save until the browser is refreshed.
+## Languages Used:
+* HTML
+* CSS
+* ES6 JavaScript
+* React
+* Create-React-App
 
-# Technologies Used
-- React.js
-- Bootstrap
-- JSX
+## Screenshots:
+1. Click on cards, selecting a new one each time. Any double ups will restart the game.
+>![media@1000](https://github.com/kelliott14/Showcase-React/blob/master/readme/screenshot.JPG)
+
+
+*Website was created as part of the ***University of Sydney's The Coding Bootcamp*** Unit 19*
